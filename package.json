@@ -1,0 +1,17 @@
+{
+  "name": "ejericio-orm-cine-extendido",
+  "version": "1.0.0",
+  "description": "En esta ejercitación seguiremos con el dominio del Cine con algunas extensiones para tener una mejor base para desarrollar una api en un futuro.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sequelize": "^6.31.0",
+    "sqlite3": "^5.1.6"
+  }
+}
